@@ -46,5 +46,5 @@ pip install numpy pandas matplotlib seaborn
 This analysis helps job seekers and recruiters understand current job market trends, salary expectations, and key hiring requirements.
 
 ## Author
-This project was developed by Vinay Kumar Modini.
+Vinay Kumar Modini.
 
